@@ -1,0 +1,28 @@
+{
+  "name": "prime-guessing-game",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A prime number guessing game built with Vite, React, and TypeScript for the RandomPlayables platform",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.3.9",
+    "@vitejs/plugin-react": "^3.1.0"
+  },
+  "keywords": [
+    "randomplayables",
+    "prime-guessing-game",
+    "vite",
+    "react",
+    "typescript"
+  ],
+  "license": "MIT"
+}
